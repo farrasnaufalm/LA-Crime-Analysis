@@ -1,4 +1,4 @@
-# AB Fast Food Marketing Campaign: Python (Jupyter Notebook)
+# Los Angeles Crime Analysis (2020-2021): Python (Jupyter Notebook)
 
 [![Kaggle Dataset](https://img.shields.io/static/v1?label=Kaggle%20Dataset&message=Open&color=blue&logo=visualstudiocode)](https://www.kaggle.com/datasets/chebotinaa/fast-food-marketing-campaign-ab-test)
 
